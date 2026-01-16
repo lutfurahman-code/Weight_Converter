@@ -4,6 +4,8 @@ const resultE1 = document.getElementById("result")
 let errorTime;
 let resultTime;
 
+// New Features to come
+
 function updateResults(){
     console.log(inputE1.value)
     if(inputE1.value <=0 || isNaN(inputE1.value) )
